@@ -3,6 +3,7 @@ interface Props {
   word: string
   correctLetter: string[]
 }
+
 defineProps<Props>()
 </script>
 
